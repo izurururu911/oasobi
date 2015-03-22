@@ -16,6 +16,7 @@
 		6E08807F1ABF1E130093113A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E08807C1ABF1E130093113A /* Default-568h@2x.png */; };
 		6E0880801ABF1E130093113A /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E08807D1ABF1E130093113A /* Default-667h@2x.png */; };
 		6E0880811ABF1E130093113A /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E08807E1ABF1E130093113A /* Default-736h@3x.png */; };
+		6E0880831ABF21430093113A /* スクリーンショット 2015-03-19 3.17.55.png in Resources */ = {isa = PBXBuildFile; fileRef = 6E0880821ABF21430093113A /* スクリーンショット 2015-03-19 3.17.55.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		6E08807C1ABF1E130093113A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		6E08807D1ABF1E130093113A /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
 		6E08807E1ABF1E130093113A /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
+		6E0880821ABF21430093113A /* スクリーンショット 2015-03-19 3.17.55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2015-03-19 3.17.55.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		6E0880591ABF1DF50093113A /* oasobi */ = {
 			isa = PBXGroup;
 			children = (
+				6E0880821ABF21430093113A /* スクリーンショット 2015-03-19 3.17.55.png */,
 				6E08805C1ABF1DF50093113A /* AppDelegate.swift */,
 				6E08805E1ABF1DF50093113A /* ViewController.swift */,
 				6E0880601ABF1DF50093113A /* Main.storyboard */,
@@ -201,6 +204,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E0880831ABF21430093113A /* スクリーンショット 2015-03-19 3.17.55.png in Resources */,
 				6E0880621ABF1DF50093113A /* Main.storyboard in Resources */,
 				6E08807F1ABF1E130093113A /* Default-568h@2x.png in Resources */,
 				6E0880671ABF1DF50093113A /* LaunchScreen.xib in Resources */,
