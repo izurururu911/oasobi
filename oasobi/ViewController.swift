@@ -53,7 +53,13 @@ class ViewController: UIViewController {
         num = num*0
         label.text = String (num)
     }
-
+    
+    @IBAction func superman () {
+        num = num*1000
+        label.text = String (num)
+    }
+    
+    
     
     
     
