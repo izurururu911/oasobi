@@ -60,6 +60,12 @@ class ViewController: UIViewController {
     }
     
     
+    @IBAction func onogiriman () {
+        num = num/num
+        label.text = String (num)
+    }
+    
+
     
     
     
