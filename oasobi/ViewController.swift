@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     
+    
     var num : Int=0
     @IBOutlet var label :UILabel!
     
@@ -29,6 +30,13 @@ class ViewController: UIViewController {
 
     @IBAction func plus () {
         num = num+1
+        
+        if(num>10){
+        
+        
+        }
+            
+            
         label.text = String (num)
     }
     
