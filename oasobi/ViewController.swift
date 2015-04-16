@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     
     var num : Int=0
     @IBOutlet var label :UILabel!
+    @IBOutlet var label2 :UILabel!
     
     
 
@@ -32,7 +33,7 @@ class ViewController: UIViewController {
         num = num+1
         
         if(num>10){
-        
+        label2.text="izuchin"
         
         }
             
